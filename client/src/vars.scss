@@ -1,0 +1,16 @@
+$btn-first-color: green;
+$base-transition-time: 0.4s;
+$second-color: #bfbfbf;
+
+%base-form-el {
+  font-size: 16px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+%center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
